@@ -19,4 +19,4 @@ This project analyzes trader behavior and profit patterns based on Fear and Gree
 - Open the notebook in Jupyter
 - Run all cells step-by-step
 
-Prepared by: Shreeram
+Prepared by: Shree Ram
